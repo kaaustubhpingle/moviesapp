@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ABD7212B-0480-4EC7-BF53-AB15BA04824E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88E8F660-8B79-4663-9CA1-5181F91594C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosTask/MoviesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchMovieDetails(movieID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88E8F660-8B79-4663-9CA1-5181F91594C7 - ea516b357cd22342"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "88E8F660-8B79-4663-9CA1-5181F91594C7 - 8e69e81371393c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CF022C3-D009-4EB5-ADAA-035C3F91586D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosTask/MoviesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchMovieDetails(movieID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E5F2A6D-8246-4AC0-8596-629F35BFE289"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosTask/MoviesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchMovieDetails(movieID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7E5F2A6D-8246-4AC0-8596-629F35BFE289 - 8e69e81371393a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "7E5F2A6D-8246-4AC0-8596-629F35BFE289 - 8e69e81371393a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "7E5F2A6D-8246-4AC0-8596-629F35BFE289 - 8e69e81371393a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "363">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79302D1A-7FAE-4CCA-82D9-3C14F7091D3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosTask/MoviesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetchMovieDetails(movieID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79302D1A-7FAE-4CCA-82D9-3C14F7091D3F - 8e69e81371393a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "79302D1A-7FAE-4CCA-82D9-3C14F7091D3F - 8e69e81371393a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "79302D1A-7FAE-4CCA-82D9-3C14F7091D3F - 8e69e81371393a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "363">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CE49F91-DA2C-4F24-BAF8-1F48315C337F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosTask/MoviesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchMovieDetails(movieID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73D9EE3D-BD9B-43B2-B757-436D15D8A050"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosTask/FetchDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchMovieDetailss(movieID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB3BB113-881C-4777-888D-682EE285E5BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosTask/FetchDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchMovieDetailss(movieID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D16F2B49-360A-472D-8080-A050861A0143"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosTask/MoviesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchMovieDetails(movieID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D16F2B49-360A-472D-8080-A050861A0143 - a3b7fc9f36143114"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "D16F2B49-360A-472D-8080-A050861A0143 - ea516b357cd2236d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "D16F2B49-360A-472D-8080-A050861A0143 - 8e69e81371393c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;iosTask.Movies, Swift.Error&gt;) -&gt; () in iosTask.MoviesDetailViewController.fetchMovieDetails(movieID: Swift.String) -&gt; ()"
+                  moduleName = "iosTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaustubh/Desktop/iosTask/iosTask/MoviesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
